@@ -1,3 +1,3 @@
-#First class
+# First class
 
 This is a README! file
